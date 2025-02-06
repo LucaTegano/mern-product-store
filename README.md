@@ -1,4 +1,4 @@
-# MERN Practice
+# MERN Product Store
 
 This project is a simple MERN (MongoDB, Express, React, Node.js and Chakra UI) application for managing products.
 
