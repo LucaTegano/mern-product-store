@@ -1,4 +1,5 @@
 # MERN Product Store
+![Immagine 2025-02-06 165220](https://github.com/user-attachments/assets/08ff27d3-e865-475c-b092-5c9d689d58b0)
 
 This project is a simple MERN (MongoDB, Express, React, Node.js and Chakra UI) application for managing products.
 
